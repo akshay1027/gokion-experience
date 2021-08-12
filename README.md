@@ -11,7 +11,7 @@ My Full stack developer experience @ Gokion. Documenting my learnings and journe
 - Best practices.
 - Imporved Material UI knowledge.
 
-### 1. herogoko.com and Caterforce.herogoko.com ( dynamic web app )
+### 2. herogoko.com and Caterforce.herogoko.com ( dynamic web app )
 - Conditionally render data. Local storage use cases.
 - Integarting Complex APIs to make easy to use features.
 - Improved my JavaScript skills.
