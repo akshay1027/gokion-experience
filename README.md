@@ -24,3 +24,4 @@ My Full stack developer experience @ Gokion. Documenting my learnings and journe
 - Authentication process ( JWT token , OTP verification ) in frontend.
 - Learnt formik to validate given data, send data to backend, throw errors
 - Learnt TypeScript
+- Learnt to add loader when making http requests
